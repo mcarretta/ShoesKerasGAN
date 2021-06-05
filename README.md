@@ -2,7 +2,7 @@
 Implementation of a DCGAN in Keras generating Images of Adidas Shoes and testing through ImageNet 1000 and VGG 16. 
 This was the core part of my undergraduate thesis that I wrote after my internship at IMPLab (pattern recognition and AI lab located at University of Parma).
 
-The DCGAN I implemented is mostly based of the one used in Radford paper with some substantial changings that helped to increase the accuracy of the network by a good margin. I implemented it in Keras because the code is far more comprehensible than other libraries used for Deep Learning.
+The DCGAN I implemented is mostly based on the one used in Radford paper with some substantial changings that helped to increase the accuracy of the network by a good margin. I implemented it in Keras because the code is far more comprehensible than other libraries used for Deep Learning.
 This Network was trained using a training set provided by Adidas which I can't share online due to copyright issues. So you need to train the newtork on your own dataset. But you can download the models I obtained after a 40 hour training from this [link](https://www.dropbox.com/sh/4bybn73kvita0qk/AACxsR16lyB3oYT4EldT9Tcpa?dl=0). 
 
 In order to run this code on your system, you have to install different libraries:
